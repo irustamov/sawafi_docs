@@ -1,0 +1,25 @@
+Product name: NEWSCO NVADER
+Product type: NVADER
+Description: NEWSCO’s NVADER utilizes the same Patented Telemetrix Technology held with the Driver Control Module of our 180C Pulser to preciesly actuate the rotary vlave and offer recordable 
+feedback of a run and maintenance history. Driven by efficiency, the Telemetrix Brushless DC Motor has only two moving parts ad is designed to operate entirely within hydraulic lubricant, which extends the bearing life and conducts heat from the motor. This high efficiency increases battery life and greatly reduces heat generation, leading to improved performance at higher temperatures and overall cost savings. Our Core of Reliability is sustained by Telemetrix rugged 10-pin rotary connectors for proven dependability in extreme downhole conditions. The monolithic design ensures consistent, trouble-free performance in high-pressure, high-temperature, and high-vibration environments. Extremely easy to use, these connectors virtually eliminate field operator 
+error during tool assembly and ensure constant reliable communication between all components within the MWD string. 
+
+
+Specifications:
+Survey Time: @1.5sec DR 2 1/2 minute
+Battery Life: ≈1200 surveys on demand (low warning indicator)
+Collars for Retrieval: 58mm (2 1/2’) minimum
+Inclination: 0° - 180°, 0.1° accuracy 
+Azimuth: 0° - 360°, 1° accuracy
+Dip Angle: 0° - 90°, 0.1° accuracy
+Data Storage: 3264 surveys
+Flow Rates: 0.5m3 - 4.0m3 (132gpm - 1000gpm)
+Data Range: 1.5 seconds
+Gamma and Tool Faces: Fully Capable
+Remote Operation: Fully Compatible with WITS
+Wireline Retrievable: Yes
+LCM: Designed for high tolerance to LCM
+Operating Voltage Range: 17-36 VDC
+Idle Current: 10-12 mA @26 VDC
+Min. Operating Temperature: 0°
+Max. Operating Temperature: 350°F

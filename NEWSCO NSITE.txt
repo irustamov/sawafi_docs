@@ -1,0 +1,19 @@
+Product name: NEWSCO NSITE
+Product type: AZIMUTHAL GAMMA TOOL 
+Description: NEWSCO’s NSITE Azimuthal Gamma Tool combines best-in-class CBG azimuthal gamma technology with NEWSCO’s rugged and adjustable pressure housing. NSITE enables you to maximize your production and minimize your costs by providing focused details of the stratigraphic location in formations that can be correlated to the MWD tool face. NSITE features a 67° “window” that is machined along the length of a tungsten shield that surrounds the crystal/photomultiplier tube detector. Only gamma rays entering from the formation through this window can be detected, and when aligned with the tool face, NSITE indicates the direction from which gamma-ray energies originate.NSITE is also fully configurable to provide you with 4 sectors of real-time imaging, or 16 sectors in memory. The tool is fully retrievable and operable up to 350°F. NSITEs simple yet reliable design allows field operators to easily high side the “window” on location in a matter of minutes.  No disassembly is required. Furthermore, the tool uses NEWSCO’s proprietary rotary connectors designed specifically to withstand the extreme conditions of high temperature, high pressure, and high vibrations found downhole.
+
+
+Specifications:
+Imaging: 4 Sectors Real-Time and 16 Sectors in Memory 
+Sensitivity: .52 CPS/API 
+Front/Back Ratio (Barium-133): 14:1
+Front/Back Ratio (Cesium-137): 2.72:1
+Vibration (3 Axis) 50-1000Hz: 30G (20G RMS) 
+Shock (3 Axis): 1000G, 0.5ms, half-sine
+Max. Operating Pressure: 20,000 psi
+Min. Operating Temperature: 0°
+Max. Operating Temperature: 350°F
+Wireline Retrievable / Re-Seatable: Yes
+Tool Outside Diameter: 1.88”
+Overall Length of Tool: 52.25”
+Adjustable Housing Accuracy: ± 15° (from Highside/Desired Setting)

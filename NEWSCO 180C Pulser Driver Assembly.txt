@@ -1,0 +1,21 @@
+Product name: NEWSCO 180C Pulser Driver Assembly
+Product type: Pulser
+Description: NEWSCO’s Using Patented Telemetrix Technology, the 180C Pulser utilizes our Intelligent Driver Control Module to uniquely identify precisely where the poppet is within its travel at any given time. This allows for constant recalibration to ensure full actuation of the poppet regardless of component wear. Driven by Efficiency, the Telemetrix Brushless DC Drive Motor has only two moving parts and is designed to operate entirely within hydraulic lubricant, which extends the bearing life and conducts heat from the motor. This high efficiency increases battery life and greatly reduces heat generation, leading to improved performance at higher temperatures and over-all cost savings. Our Core of Reliability is sustained by Telemetrix rugged 10-pin rotary connectors for proven dependability in extreme down-hole conditions. The monolithic design ensures consistent, trouble-free performance in high-pressure, high-temperature, and high-vibration environments. Extremely easy to use, these connectors virtually eliminate field operator error during tool assembly and ensures constant reliable communication between all components within the MWD string.
+
+
+Specifications:
+Telemetry Type: Positive Pulse
+Wireline Retrievable, Re-Seatable: Yes
+Programmable Modes: Flow Switch Threshold
+Tool Outside Diameter: 1.88” 47.8 mm
+Overall Length of Tool: 65 1/8” 1.654m
+Environmental Specifications
+Maximum Vibration: 20g 200 m/s²
+Maximum Shock: 500g, 0.5m 1/2 Sine 5,000 m/s2 0.5ms 1/2 Sine
+Min. Operating Temperature: 32°F
+Max. Operating Temperature: 302°F
+Max. Operating Pressure: 25,000 psi 172,000 kPa
+Mud Sand Content: 2%
+Maximum Bit Pressure Drop: No Limit
+Lost Circulation Material Size: All Types
+Lost Circulation Material Weight: 100 ppb 285 kg^m3
